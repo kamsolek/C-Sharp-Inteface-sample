@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\pojazd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|solutionrelative:pojazd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|solutionrelative:messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\motorowka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|solutionrelative:motorowka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\iserwisowalny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|solutionrelative:iserwisowalny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\pojazdexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|solutionrelative:pojazdexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|c:\\users\\kamoc\\desktop\\studia\\iii sem\\programowanie_iii\\zadania_laby\\zad8\\rower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|solutionrelative:rower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad7.csproj|C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\motorowka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad7.csproj|solutionrelative:motorowka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad7.csproj|C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad7.csproj|solutionrelative:messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad7.csproj|C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\rower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad7.csproj|solutionrelative:rower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad7.csproj|C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\pojazd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad7.csproj|solutionrelative:pojazd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad7.csproj|C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\pojazdexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad7.csproj|solutionrelative:pojazdexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad7.csproj|C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\iserwisowalny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad7.csproj|solutionrelative:iserwisowalny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad7.csproj|C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\zad8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A1C40FC3-BFF0-416E-9D28-0AEF497C2FA9}|zad8.csproj|solutionrelative:zad8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 193,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Motorowka.cs",
+              "DocumentMoniker": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Motorowka.cs",
+              "RelativeDocumentMoniker": "Motorowka.cs",
+              "ToolTip": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Motorowka.cs",
+              "RelativeToolTip": "Motorowka.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:25:43.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\MessageService.cs",
+              "RelativeDocumentMoniker": "MessageService.cs",
+              "ToolTip": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\MessageService.cs",
+              "RelativeToolTip": "MessageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:05:04.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rower.cs",
+              "DocumentMoniker": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Rower.cs",
+              "RelativeDocumentMoniker": "Rower.cs",
+              "ToolTip": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Rower.cs",
+              "RelativeToolTip": "Rower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:04:18.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pojazd.cs",
+              "DocumentMoniker": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Pojazd.cs",
+              "RelativeDocumentMoniker": "Pojazd.cs",
+              "ToolTip": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Pojazd.cs",
+              "RelativeToolTip": "Pojazd.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:03:31.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PojazdException.cs",
+              "DocumentMoniker": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\PojazdException.cs",
+              "RelativeDocumentMoniker": "PojazdException.cs",
+              "ToolTip": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\PojazdException.cs",
+              "RelativeToolTip": "PojazdException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:01:07.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISerwisowalny.cs",
+              "DocumentMoniker": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\ISerwisowalny.cs",
+              "RelativeDocumentMoniker": "ISerwisowalny.cs",
+              "ToolTip": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\ISerwisowalny.cs",
+              "RelativeToolTip": "ISerwisowalny.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:58:30.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:17:39.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "zad8",
+              "DocumentMoniker": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\zad8.csproj",
+              "RelativeDocumentMoniker": "zad8.csproj",
+              "ToolTip": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\zad8.csproj",
+              "RelativeToolTip": "zad8.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T16:17:11.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PojazdException.cs",
+              "DocumentMoniker": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\PojazdException.cs",
+              "RelativeDocumentMoniker": "PojazdException.cs",
+              "ToolTip": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\PojazdException.cs",
+              "RelativeToolTip": "PojazdException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:02:08.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISerwisowalny.cs",
+              "DocumentMoniker": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\ISerwisowalny.cs",
+              "RelativeDocumentMoniker": "ISerwisowalny.cs",
+              "ToolTip": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\ISerwisowalny.cs",
+              "RelativeToolTip": "ISerwisowalny.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:53:16.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\MessageService.cs",
+              "RelativeDocumentMoniker": "MessageService.cs",
+              "ToolTip": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\MessageService.cs",
+              "RelativeToolTip": "MessageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:59:30.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rower.cs",
+              "DocumentMoniker": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Rower.cs",
+              "RelativeDocumentMoniker": "Rower.cs",
+              "ToolTip": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Rower.cs",
+              "RelativeToolTip": "Rower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T22:16:40.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Motorowka.cs",
+              "DocumentMoniker": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Motorowka.cs",
+              "RelativeDocumentMoniker": "Motorowka.cs",
+              "ToolTip": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Motorowka.cs",
+              "RelativeToolTip": "Motorowka.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T22:16:23.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pojazd.cs",
+              "DocumentMoniker": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Pojazd.cs",
+              "RelativeDocumentMoniker": "Pojazd.cs",
+              "ToolTip": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Pojazd.cs",
+              "RelativeToolTip": "Pojazd.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T22:04:12.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kamoc\\Desktop\\STUDIA\\III sem\\Programowanie_III\\zadania_laby\\zad8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAkwA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T20:48:09.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
